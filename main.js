@@ -1,0 +1,1 @@
+(function(){$(window).load(function(){return setTimeout(function(){$("body").removeClass("intro").addClass("hello")},3500)})}).call(this);
